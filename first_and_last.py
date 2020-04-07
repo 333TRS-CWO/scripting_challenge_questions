@@ -3,5 +3,5 @@ Complete the first_and_last function so that given a sentance as a string, the f
 to only the word's first and last characters.
 '''
 
-def first_and_last():
+def first_and_last(sentance: str) -> str:
     pass

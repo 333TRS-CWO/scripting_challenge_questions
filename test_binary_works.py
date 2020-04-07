@@ -3,10 +3,10 @@ import unittest
 
 class SimpleTest(unittest.TestCase):
 
-    def first(self):
+    def test_first(self):
         self.assertEqual(binary_words("Words can have different lengths"), "11011")
 
-    def second(self):
+    def test_second(self):
         self.assertEqual(binary_words("Examples are hard to make"), '01000')
 
 
