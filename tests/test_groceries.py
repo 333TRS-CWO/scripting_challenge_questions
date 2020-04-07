@@ -1,4 +1,4 @@
-from groceries import groceries
+from challenges.groceries import groceries
 import unittest
 
 class SimpleTest(unittest.TestCase):

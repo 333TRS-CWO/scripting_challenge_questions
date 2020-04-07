@@ -1,4 +1,4 @@
-from first_and_last import first_and_last
+from challenges.first_and_last import first_and_last
 import unittest
 
 class SimpleTest(unittest.TestCase):

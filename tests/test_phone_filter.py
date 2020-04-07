@@ -1,4 +1,4 @@
-from phone_filter import phone_filter
+from challenges.phone_filter import phone_filter
 import unittest
 
 class SimpleTest(unittest.TestCase):

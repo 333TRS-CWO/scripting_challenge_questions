@@ -1,4 +1,4 @@
-from fast_food import fast_food
+from challenges.fast_food import fast_food
 import unittest
 
 class SimpleTest(unittest.TestCase):

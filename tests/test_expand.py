@@ -1,13 +1,13 @@
-from sum_em_up import sum_em_up
+from challenges.expand import expand
 import unittest
 
 class SimpleTest(unittest.TestCase):
 
     def test_first(self):
-        self.assertEqual(sum_em_up(123), 6)
+        self.assertEqual(expand(123), "100 + 20 + 3")
 
     def test_second(self):
-        self.assertEqual(sum_em_up(451), 10)
+        self.assertEqual(expand(605030), "600000 + 5000 + 30")
 
 
 if __name__ == "__main__":

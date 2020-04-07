@@ -1,4 +1,4 @@
-from word_sort import word_sort
+from challenges.word_sort import word_sort
 import unittest
 
 class SimpleTest(unittest.TestCase):

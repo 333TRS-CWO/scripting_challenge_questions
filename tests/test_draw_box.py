@@ -1,4 +1,4 @@
-from draw_box import draw_box
+from challenges.draw_box import draw_box
 import unittest
 
 class SimpleTest(unittest.TestCase):

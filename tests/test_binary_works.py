@@ -1,4 +1,4 @@
-from binary_words import binary_words
+from challenges.binary_words import binary_words
 import unittest
 
 class SimpleTest(unittest.TestCase):

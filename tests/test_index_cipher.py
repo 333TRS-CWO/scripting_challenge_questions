@@ -1,4 +1,4 @@
-from index_cipher import index_cipher
+from challenges.index_cipher import index_cipher
 import unittest
 
 class SimpleTest(unittest.TestCase):

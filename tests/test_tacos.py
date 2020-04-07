@@ -1,4 +1,4 @@
-from tacos import tacos
+from challenges.tacos import tacos
 import unittest
 
 class SimpleTest(unittest.TestCase):

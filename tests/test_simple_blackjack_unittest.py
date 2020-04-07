@@ -1,4 +1,4 @@
-from simple_blackjack import simple_blackjack
+from challenges.simple_blackjack import simple_blackjack
 import unittest
 
 class SimpleTest(unittest.TestCase):

@@ -1,4 +1,4 @@
-from greet import greet
+from challenges.greet import greet
 import unittest
 
 class SimpleTest(unittest.TestCase):

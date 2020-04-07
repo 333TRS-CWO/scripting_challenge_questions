@@ -1,4 +1,4 @@
-from find_the_unique_number import find_the_unique_number
+from challenges.find_the_unique_number import find_the_unique_number
 import unittest
 
 class SimpleTest(unittest.TestCase):
@@ -11,4 +11,4 @@ class SimpleTest(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main() 

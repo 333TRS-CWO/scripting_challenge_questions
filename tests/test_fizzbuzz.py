@@ -1,4 +1,4 @@
-from fizzbuzz import fizzbuzz
+from challenges.fizzbuzz import fizzbuzz
 import unittest
 
 class SimpleTest(unittest.TestCase):
